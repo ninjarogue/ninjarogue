@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a full-stack software developer with an impassioned interest in the mechanisms of the backend, and creating quality frontend applications. Recently, I've been dipping my toes in NestJS, Prisma, and attempting to grasp the inner workings of relational databases with postgresql.    
+
 <!--
 **ninjarogue/ninjarogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
