@@ -1,3 +1,5 @@
+![Profile Banner](https://github.com/ninjarogue/banner.png)
+
 ### Hi there 👋
 
 I'm a full-stack software developer with an impassioned interest in the mechanisms of the backend, and creating quality frontend applications. Recently, I've been dipping my toes in NestJS, Prisma, and attempting to grasp the inner workings of relational databases with postgresql.    
