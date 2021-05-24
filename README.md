@@ -4,6 +4,7 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 
 <!--
 **ninjarogue/ninjarogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -25,9 +26,7 @@ Anything that'll improve my skills as a full-stack or front-end developer.
 
 [linkedin](www.linkedin.com/in/aric-jiang)
 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 I'm currently a student at Codeworks and I look forward to graduating very soon.
 
--->
