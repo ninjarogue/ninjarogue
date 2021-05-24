@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/ninjarogue/ninjarogue/banner.png)
+![Profile Banner](https://github.com/ninjarogue/banner.png)
 
 ### Hi there 👋
 
