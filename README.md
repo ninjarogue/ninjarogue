@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning ...
 
-> React-Query, TypeScript, PostgresQL, and React.
+> React-Query, TypeScript, Prisma ORM, NestJS, PostgresQL, and React.
 
 ### 👯 I’m looking to collaborate on ...
 
