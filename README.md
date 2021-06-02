@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 ### ⚡ Fun fact: ...
 
-> I'm currently a student at Codeworks and I look forward to graduating very soon.
+> I'm a Codeworks bootcamp graduate. I was born in Los Angeles, California, and I currently live in Taipei, Taiwan.
 
