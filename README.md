@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 
 ### ⚡ Fun fact: ...
 
-> I'm a Codeworks bootcamp graduate. I was born in Los Angeles, California, and I currently live in Taipei, Taiwan.
+> I was born in Los Angeles, California, and I currently live in Taipei, Taiwan. 
+> I'm a Codeworks bootcamp graduate. 
 
