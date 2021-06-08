@@ -2,13 +2,11 @@
 
 ### Hi there 👋
 
-I'm a full-stack software developer with an impassioned interest in the mechanisms of the backend, and creating quality frontend applications. Recently, I've been dipping my toes in NestJS, Prisma, and attempting to grasp the inner workings of relational databases with postgresql.    
+I'm a full-stack software developer with an impassioned interest in the mechanisms of the backend, and creating quality applications. Recently, I've been getting my hands dirty in NestJS, and TypeORM. I've also been spending some time to better understand the inner workings of relational databases with postgreSQL.
 
 <!--
 **ninjarogue/ninjarogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ...
  
