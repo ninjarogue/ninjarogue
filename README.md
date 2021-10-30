@@ -28,6 +28,6 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 
 ### ⚡ Fun fact: ...
 
-- I was born in Los Angeles, California, and I currently live in Taipei, Taiwan.
+- I was born in Los Angeles, California.
 - I'm a Codeworks bootcamp graduate. 
 
