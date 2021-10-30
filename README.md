@@ -9,7 +9,7 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 
 ### 🔭 I’m currently working on ...
  
-> I work full-time as a full-stack engineer at Iron Forge Development
+> I am currently working full-time as a full-stack engineer at Iron Forge Development
 
 🌱 I’m currently learning ...
 
