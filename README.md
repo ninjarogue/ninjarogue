@@ -2,19 +2,18 @@
 
 ### Hi there 👋
 
-I'm a full-stack software developer with an impassioned interest in the mechanisms of the backend, and creating quality applications. Recently, I've been getting my hands dirty in NestJS, and TypeORM. I've also been spending some time to better understand the inner workings of relational databases with postgreSQL.
-
+I'm a full-stack software developer with an impassioned interest in the mechanisms of the back-end, and front-end development.
 <!--
 **ninjarogue/ninjarogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ### 🔭 I’m currently working on ...
  
-> building a simple todo application, to wrap my head around some concepts I've been looking to grasp.
+> I work full-time as a full-stack engineer at Iron Forge Development
 
 🌱 I’m currently learning ...
 
-> React, TypeScript, TypeORM, NestJS, PostgreSQL.
+> React, TypeScript, GraphQL, and PostgreSQL.
 
 ### 👯 I’m looking to collaborate on ...
 
