@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a full-stack software developer with an impassioned interest in the mechanisms of the back-end, and front-end development.
+I'm a full-stack software developer with an impassioned interest in the mechanisms of the back-end/front-end.
 <!--
 **ninjarogue/ninjarogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -17,7 +17,7 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 
 ### 👯 I’m looking to collaborate on ...
 
-> Anything that'll improve my skills as a full-stack or front-end developer.
+> Anything that'll improve my skills as a full-stack developer.
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
