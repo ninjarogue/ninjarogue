@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a full-stack software developer with an impassioned interest in the mechanisms of the back-end/front-end.
+I'm a full-stack software developer with an impassioned interest in the mechanisms of the back-end.
 <!--
 **ninjarogue/ninjarogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -13,11 +13,11 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 
 🌱 I’m currently learning ...
 
-> React, TypeScript, GraphQL, Flutter, Unit/Integration Testing in React, and PostgreSQL.
+> React, TypeScript, GraphQL, Flutter, Unit/Integration Testing in React, PostgreSQL and Rust!
 
 ### 👯 I’m looking to collaborate on ...
 
-> Anything that'll improve my skills as a full-stack developer.
+> Anything that'll improve my skills as a full-stack/back-end developer.
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -30,4 +30,3 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 
 - I was born in Los Angeles, California.
 - I'm a Codeworks bootcamp graduate. 
-
