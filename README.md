@@ -13,7 +13,7 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 
 🌱 I’m currently learning ...
 
-> React, TypeScript, GraphQL, Flutter, Unit/Integration Testing in React, PostgreSQL, Rust and Go!
+> React, TypeScript, GraphQL, Unit/Integration Testing in React, PostgreSQL, Rust and Go!
 
 ### 👯 I’m looking to collaborate on ...
 
