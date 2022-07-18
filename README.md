@@ -24,7 +24,7 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 -->
 ### 📫 How to reach me: ...
 
-> [linkedin](www.linkedin.com/in/aric-jiang)
+> [linkedin](https://www.linkedin.com/in/aric-jiang/)
 
 ### ⚡ Fun fact: ...
 
