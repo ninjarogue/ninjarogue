@@ -13,7 +13,7 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 
 🌱 I’m currently learning ...
 
-> TypeScript, React, GraphQL, Unit/Integration Testing in React with Jest and React Testing Library, PostgreSQL, Knex JS, Rust and Go!
+> TypeScript, React, GraphQL, Unit/Integration Testing in React with Jest and React Testing Library, PostgreSQL, Knex JS, Rust and Go.
 
 ### 👯 I’m looking to collaborate on ...
 
