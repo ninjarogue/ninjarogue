@@ -15,7 +15,11 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 
 > 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> 
-<img src="https://camo.githubusercontent.com/8336ff7b20a7cc4f4b95e06275dc2c2f6c6be4af6e858888c277cbb654338159/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" />, GraphQL, Unit/Integration Testing in React with Jest and React Testing Library, PostgreSQL, Knex JS, Rust and Go.
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+Unit/Integration Testing in React with Jest and React Testing Library, PostgreSQL, Knex JS, Rust and Go.
 
 ### 👯 I’m looking to collaborate on ...
 
