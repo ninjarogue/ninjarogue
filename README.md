@@ -29,7 +29,7 @@ I'm a full-stack software developer with an impassioned interest in the mechanis
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 👯 I’m looking to collaborate on ...
+### 🦀 I’m looking to collaborate on ...
 
 > Anything that'll improve my skills as a full-stack or back-end developer.
 <!--
